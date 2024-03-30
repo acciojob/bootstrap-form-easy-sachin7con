@@ -1,2 +1,17 @@
 
 /*ONS Your CSS Code here. */
+.input-group {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.input-group-item {
+    flex: ;
+    margin-right: 10px; /* Adjust as needed */
+}
+
+.input-group-item label {
+     display: block; 
+	text-align: left; /* optional, for horizontal alignment */
+    margin-bottom: 5px;
+}
